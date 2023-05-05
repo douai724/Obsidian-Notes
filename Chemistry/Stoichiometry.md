@@ -1,0 +1,1 @@
+Is the measurement of bulk quantities of [[Products]] and reactants as opposed to weighing out individual atoms.
