@@ -1,1 +1,0 @@
-are the result of a chemical reaction, on the right hand side of chemical equations.

@@ -1,0 +1,1 @@
+If a system at equilibrium is disturbed, it will move in such a way to counteract the disturbance and restore equilibrium.
