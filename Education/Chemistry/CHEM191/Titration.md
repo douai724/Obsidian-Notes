@@ -1,0 +1,13 @@
+-   Acid-base Titrations:
+	- What is an acid base Titration?→it is an experimental technique used to find the concentration of some species in a solution through its reaction with another species in a solution of known concentration.
+	- Common Titration curve order:
+		- concentration before Titration (start).
+		- Added base ($OH^-$) converts acid into its conjugate base.
+		- The acid is neutralised by the base (equivalence point).
+		- There is no acid left to react with excess $OH^-$
+        - Common titration curve:
+	    -   ![[Pasted image 20230512145718.png | 400]] 
+    -   Diprotic acid
+        -   What is the nature of Diprotic acids when titrated?↓
+            -   if acid has 2 protons it can donate, it will do so one at a time.
+            -   ![](local:///Users/aidandougherty/remnote/remnote-63fc0cd735d23643c0cb7b2a/files/Ge-WAB7SIK9uQu056aJdmpkxbjSnS_I5TliUOmgrek4w52RuIkcQdNpWW_J1u6E5zxPb-l8nq2r4us7rZsv7FUQdyeiG28IVtIqL-iQakdSz_MCGr15zlNQA2UorxBhZ.jpeg)

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Acid-base Chemistry.md",
+                "file": "Education/Chemistry/CHEM191/Buffer Solutions.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Education/Chemistry/CHEM191/Acid-base Chemistry.md",
+                    "file": "Education/Chemistry/CHEM191/Buffer Solutions.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Acid-base Chemistry.md",
+                "file": "Education/Chemistry/CHEM191/Buffer Solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Acid-base Chemistry.md",
+                "file": "Education/Chemistry/CHEM191/Buffer Solutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Acid-base Chemistry.md"
+                "file": "Education/Chemistry/CHEM191/Buffer Solutions.md"
               }
             }
           },
@@ -225,10 +225,16 @@
   },
   "active": "9841b096c1ed7f07",
   "lastOpenFiles": [
+    "Education/Chemistry/CHEM191/Titration.md",
+    "Pasted image 20230512145718.png",
     "Education/Chemistry/CHEM191/Module 1 - Chemical Reactions in an Aquaeous Solution.md",
+    "Education/Chemistry/CHEM191/Buffer Solutions.md",
     "Education/Chemistry/CHEM191/Solubility.md",
-    "Education/Chemistry/CHEM191/Chemical Equilibria.md",
     "Education/Chemistry/CHEM191/Acid-base Chemistry.md",
+    "Education/Chemistry/CHEM191/Weak Acids and Bases.md",
+    "Education/Chemistry/CHEM191/Untitled.md",
+    "Pasted image 20230512144137.png",
+    "Education/Chemistry/CHEM191/Chemical Equilibria.md",
     "Education/Chemistry/CHEM191/Le Chatelier's Principle.md",
     "Education/Chemistry/CHEM191/Water as a solvent.md",
     "Education/Chemistry/CHEM191/Electrolytes.md",
@@ -250,7 +256,6 @@
     "2023-05-05.md",
     "Daily Notes",
     "Newer Note.md",
-    "New note.md",
     "Education/Chemistry"
   ]
 }

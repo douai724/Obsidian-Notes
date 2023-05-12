@@ -5,7 +5,7 @@
 - [[Solubility]]
 - [[Acid-base Chemistry]]
 - [[Buffer Solutions]]
-- [[Titration and Amino Acids]]
+- [[Titration]]
 - [[Molecules in Biological Environments]]
 
 
