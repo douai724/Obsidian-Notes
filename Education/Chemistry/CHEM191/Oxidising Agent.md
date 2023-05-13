@@ -1,0 +1,1 @@
+Also known as an oxidant, is a chemical which gains an electron/electrons in an electron transfer process (and so itself is oxidised).

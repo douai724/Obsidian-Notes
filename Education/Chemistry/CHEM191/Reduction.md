@@ -1,0 +1,1 @@
+A process in which a chemical gains an electron/electrons.

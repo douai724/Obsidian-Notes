@@ -1,0 +1,1 @@
+One mole of a substance is equal to 6.022 × 10²³ units of that substance (such as atoms, molecules, or ions). The number **6.022 × 10²³** is known as Avogadro's number or Avogadro's constant.

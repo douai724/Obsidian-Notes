@@ -1,0 +1,1 @@
+Also known as a Reductant, is a chemical which losses an electron/electrons in an electron transfer process (and so itself is reduced).

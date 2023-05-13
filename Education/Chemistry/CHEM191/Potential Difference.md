@@ -1,0 +1,3 @@
+
+### Definition
+The ***potential difference*** (also called voltage or electromotive force) is the driving force that *causes electrons to flow from one species to another in an electron transfer reaction.* It is a **measure** of the *difference* in the *tendency of the two species to lose or gain electrons.* The greater the potential difference, the greater the driving force for electron transfer.

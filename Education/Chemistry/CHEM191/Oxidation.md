@@ -1,0 +1,1 @@
+A process in which a chemical loses an electron/electrons.

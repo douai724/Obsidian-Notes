@@ -6,7 +6,7 @@
       {
         "id": "e3e75a1100b7db1f",
         "type": "tabs",
-        "dimension": 64.54849498327759,
+        "dimension": 67.3913043478261,
         "children": [
           {
             "id": "9841b096c1ed7f07",
@@ -14,78 +14,101 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M1/hydration.md",
+                "file": "Education/Chemistry/CHEM191/Reaction spontaneity.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "b625eb5ef371ecc6"
-          }
-        ]
-      },
-      {
-        "id": "10ee4d45b58fa5b1",
-        "type": "split",
-        "dimension": 35.45150501672241,
-        "children": [
-          {
-            "id": "fe4dde229500fef1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "df563880f7498ce8",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ]
+            }
           },
           {
-            "id": "0e88c483e25ed7ba",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8704615eb74d31c4",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Education/Chemistry/CHEM191/M1/hydration.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.6202837861310699,
-                      "close": true
-                    }
-                  }
-                },
-                "group": "b625eb5ef371ecc6"
+            "id": "4a1c58392e14a036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Chemistry/CHEM191/Gibbs Energy.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "21c1ea53b86b5664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Chemistry/CHEM191/The rate of Reaction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e809ad4166f652c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Chemistry/CHEM191/The Rate Law.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dc0a46b3d3378b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Chemistry/CHEM191/Reaction Mechanisms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f81d68b759c85714",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Chemistry/CHEM191/Electron Transfer Reaction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acd43d5c44a6731a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Chemistry/CHEM191/Galvanic Cells.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 6
+      },
+      {
+        "id": "91139a39376b689e",
+        "type": "tabs",
+        "dimension": 32.608695652173914,
+        "children": [
+          {
+            "id": "261ff61e816ebefc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M1/hydration.md",
+                "file": "Education/Chemistry/CHEM191/Galvanic Cells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M1/hydration.md",
+                "file": "Education/Chemistry/CHEM191/Galvanic Cells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M1/hydration.md"
+                "file": "Education/Chemistry/CHEM191/Galvanic Cells.md"
               }
             }
           },
@@ -223,40 +246,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9841b096c1ed7f07",
+  "active": "acd43d5c44a6731a",
   "lastOpenFiles": [
-    "Education/Chemistry/CHEM191/M1/Molecules in Biological Environments.md",
-    "Education/Chemistry/CHEM191/M1/hydration.md",
-    "Education/Chemistry/CHEM191/M1/Proteins.md",
-    "Education/Chemistry/CHEM191/M1/enzymes.md",
+    "Education/Chemistry/CHEM191/Potential Difference.md",
+    "Education/Chemistry/CHEM191/Galvanic Cells.md",
+    "Education/Chemistry/CHEM191/Module 2 - Energetics, Rates and Driving Forces of Chemical Reactions.md",
+    "Education/Chemistry/CHEM191/Electron Transfer Reaction.md",
+    "Education/Chemistry/CHEM191/Module 1 - Chemical Reactions in an Aquaeous Solution.md",
+    "Education/Chemistry/CHEM191/Oxidation numbers.md",
+    "Education/Chemistry/CHEM191/Redox equations.md",
+    "Education/Chemistry/CHEM191/Reducing Agent.md",
+    "Education/Chemistry/CHEM191/Oxidising Agent.md",
+    "Education/Chemistry/CHEM191/Reduction.md",
+    "Education/Chemistry/CHEM191/Oxidation.md",
+    "Education/Chemistry/CHEM191/Arrhenius equation.md",
+    "Pasted image 20230513191713.png",
+    "Education/Chemistry/CHEM191/Standard Enthalpy of Formation.md",
+    "Education/Chemistry/CHEM191/Collision rate.md",
+    "Education/Chemistry/CHEM191/Reaction Mechanisms.md",
+    "Education/Chemistry/CHEM191/1st order reactions.md",
+    "Education/Chemistry/CHEM191/The Rate Law.md",
+    "Education/Chemistry/CHEM191/Integrated Rate Law for 1st order reactions.md",
+    "Education/Chemistry/CHEM191/The rate of Reaction.md",
+    "Education/Chemistry/CHEM191/[.md",
+    "Education/Chemistry/CHEM191/Gibbs Energy.md",
+    "Education/Chemistry/CHEM191/Gibbs free energy change.md",
+    "Education/Chemistry/CHEM191/Reaction spontaneity.md",
+    "Education/Chemistry/CHEM191/Energy.md",
+    "Education/Chemistry/CHEM191/Entropy.md",
+    "Education/Chemistry/CHEM191/Enthalpy.md",
+    "Education/Chemistry/CHEM191/M2",
     "Education/Chemistry/CHEM191/M1",
-    "Education/Chemistry/CHEM191/M1/Buffer Solutions.md",
-    "Notes/Niklas Luhmann.md",
-    "Education/Chemistry/CHEM191/M1/dipole-dipole interaction.md",
-    "Education/Chemistry/CHEM191/M1/Water as a solvent.md",
-    "Notes/Everything.md",
-    "Education/Chemistry/CHEM191/M1/Zwitterions.md",
     "images/Pasted image 20230512144137.png",
     "images",
-    "Education/Chemistry/CHEM191/Module 1 - Chemical Reactions in an Aquaeous Solution.md",
-    "Education/Chemistry/CHEM191/M1/Titration.md",
-    "Education/Chemistry/CHEM191/M1/Amino Acids.md",
-    "Education/Chemistry/CHEM191/M1/pH.md",
-    "Education/Chemistry/CHEM191/M1/Weak Acids and Bases.md",
-    "Education/Chemistry/CHEM191/M1/Acid-base Chemistry.md",
-    "Education/Chemistry/CHEM191/M1/Solubility.md",
     "images/Pasted image 20230512152207.png",
     "images/Pasted image 20230512152031.png",
-    "Education/Chemistry/CHEM191/Module 2 - Energetics, Rates and Driving Forces of Chemical Reactions.md",
     "images/Pasted image 20230512151517.png",
     "images/Pasted image 20230512145718.png",
-    "Education/Chemistry/CHEM191/Untitled.md",
-    "Education/Chemistry/CHEM191/M1/Chemical Equilibria.md",
-    "Education/Chemistry/CHEM191/M1/Le Chatelier's Principle.md",
-    "Education/Chemistry/CHEM191/M1/Electrolytes.md",
-    "Education/Chemistry/CHEM191/M1/weak vs strong electrolytes.md",
-    "Education/Chemistry/CHEM191/M1/Stoichiometry.md",
-    "Education/Chemistry/CHEM191/Module 3 - Structure and Reactions of Organic Molecules.md",
     "Notes",
     "Education/Chemistry/CHEM191",
     "Education",

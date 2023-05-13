@@ -1,0 +1,1 @@
+A reaction that proceeds at a rate that depends linearly on only one reactant concentration.

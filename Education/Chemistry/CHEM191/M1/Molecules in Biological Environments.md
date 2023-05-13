@@ -4,7 +4,7 @@
 a *hydrophilic* molecule which contains a *polar bond* (A bond between two atoms which has significantly different electronegative charges) ‒ typical bonds of this type include: O-H, N-H, C-O.
 
 ### Non-Polar Molecules
-A **hydrophobic** molecule which only contains a *non-polar bond* (A bond between two atoms with similar electronegative charges) ‒ Typical bonds of this type include: C-C, C-H
+A *hydrophobic* molecule which only contains a *non-polar bond* (A bond between two atoms with similar electronegative charges) ‒ Typical bonds of this type include: C-C, C-H
 
 - _Water is a polar molecule._
 
