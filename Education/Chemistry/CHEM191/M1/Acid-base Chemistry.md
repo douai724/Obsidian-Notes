@@ -33,7 +33,7 @@
 - A strong base is one where all molecules will accept a proton.
 - Acids (or bases) that only partially accept/donate protons, and forming equilibrium mixtures are called weak Acids (bases).
 
- ![[Weak Acids and bases]]
+ ![[Weak Acids and Bases]]
  #### Aqueous transition metal complexes
  ![[Pasted image 20230512144137.png]]
  

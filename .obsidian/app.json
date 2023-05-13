@@ -4,6 +4,15 @@
     "aq",
     "Br",
     "Autoprotolysis",
-    "Diprotic"
-  ]
+    "Diprotic",
+    "Zwitterions",
+    "involatile",
+    "O-H",
+    "N-H",
+    "C-H",
+    "deprotonated",
+    "protonated",
+    "Ionisable"
+  ],
+  "alwaysUpdateLinks": true
 }

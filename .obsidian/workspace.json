@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Buffer Solutions.md",
+                "file": "Education/Chemistry/CHEM191/M1/hydration.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Education/Chemistry/CHEM191/Buffer Solutions.md",
+                    "file": "Education/Chemistry/CHEM191/M1/hydration.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -104,7 +104,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Buffer Solutions.md",
+                "file": "Education/Chemistry/CHEM191/M1/hydration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Buffer Solutions.md",
+                "file": "Education/Chemistry/CHEM191/M1/hydration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Buffer Solutions.md"
+                "file": "Education/Chemistry/CHEM191/M1/hydration.md"
               }
             }
           },
@@ -225,37 +225,42 @@
   },
   "active": "9841b096c1ed7f07",
   "lastOpenFiles": [
-    "Education/Chemistry/CHEM191/Titration.md",
-    "Pasted image 20230512145718.png",
-    "Education/Chemistry/CHEM191/Module 1 - Chemical Reactions in an Aquaeous Solution.md",
-    "Education/Chemistry/CHEM191/Buffer Solutions.md",
-    "Education/Chemistry/CHEM191/Solubility.md",
-    "Education/Chemistry/CHEM191/Acid-base Chemistry.md",
-    "Education/Chemistry/CHEM191/Weak Acids and Bases.md",
-    "Education/Chemistry/CHEM191/Untitled.md",
-    "Pasted image 20230512144137.png",
-    "Education/Chemistry/CHEM191/Chemical Equilibria.md",
-    "Education/Chemistry/CHEM191/Le Chatelier's Principle.md",
-    "Education/Chemistry/CHEM191/Water as a solvent.md",
-    "Education/Chemistry/CHEM191/Electrolytes.md",
-    "Education/Chemistry/CHEM191/weak vs strong electrolytes.md",
-    "Education/Chemistry/CHEM191/dipole-dipole interaction.md",
-    "Education/Chemistry/CHEM191/Stoichiometry.md",
-    "Education/Chemistry/CHEM191/Module 2 - Energetics, Rates and Driving Forces of Chemical Reactions.md",
-    "Education/Chemistry/CHEM191/Module 3 - Structure and Reactions of Organic Molecules.md",
-    "Notes/Everything.md",
-    "Notes",
-    "Daily Notes/May 05, 2023.md",
-    "Entropy and Gibbs Energy.md",
+    "Education/Chemistry/CHEM191/M1/Molecules in Biological Environments.md",
+    "Education/Chemistry/CHEM191/M1/hydration.md",
+    "Education/Chemistry/CHEM191/M1/Proteins.md",
+    "Education/Chemistry/CHEM191/M1/enzymes.md",
+    "Education/Chemistry/CHEM191/M1",
+    "Education/Chemistry/CHEM191/M1/Buffer Solutions.md",
     "Notes/Niklas Luhmann.md",
-    "Chemistry/Stoichiometry.md",
-    "Chemistry/Products.md",
+    "Education/Chemistry/CHEM191/M1/dipole-dipole interaction.md",
+    "Education/Chemistry/CHEM191/M1/Water as a solvent.md",
+    "Notes/Everything.md",
+    "Education/Chemistry/CHEM191/M1/Zwitterions.md",
+    "images/Pasted image 20230512144137.png",
+    "images",
+    "Education/Chemistry/CHEM191/Module 1 - Chemical Reactions in an Aquaeous Solution.md",
+    "Education/Chemistry/CHEM191/M1/Titration.md",
+    "Education/Chemistry/CHEM191/M1/Amino Acids.md",
+    "Education/Chemistry/CHEM191/M1/pH.md",
+    "Education/Chemistry/CHEM191/M1/Weak Acids and Bases.md",
+    "Education/Chemistry/CHEM191/M1/Acid-base Chemistry.md",
+    "Education/Chemistry/CHEM191/M1/Solubility.md",
+    "images/Pasted image 20230512152207.png",
+    "images/Pasted image 20230512152031.png",
+    "Education/Chemistry/CHEM191/Module 2 - Energetics, Rates and Driving Forces of Chemical Reactions.md",
+    "images/Pasted image 20230512151517.png",
+    "images/Pasted image 20230512145718.png",
+    "Education/Chemistry/CHEM191/Untitled.md",
+    "Education/Chemistry/CHEM191/M1/Chemical Equilibria.md",
+    "Education/Chemistry/CHEM191/M1/Le Chatelier's Principle.md",
+    "Education/Chemistry/CHEM191/M1/Electrolytes.md",
+    "Education/Chemistry/CHEM191/M1/weak vs strong electrolytes.md",
+    "Education/Chemistry/CHEM191/M1/Stoichiometry.md",
+    "Education/Chemistry/CHEM191/Module 3 - Structure and Reactions of Organic Molecules.md",
+    "Notes",
     "Education/Chemistry/CHEM191",
     "Education",
-    "May 05, 2023.md",
-    "2023-05-05.md",
     "Daily Notes",
-    "Newer Note.md",
     "Education/Chemistry"
   ]
 }
