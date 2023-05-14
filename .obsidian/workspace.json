@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Reaction spontaneity.md",
+                "file": "Education/Chemistry/CHEM191/M2/Reaction spontaneity.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Gibbs Energy.md",
+                "file": "Education/Chemistry/CHEM191/M2/Gibbs Energy.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Chemistry/CHEM191/The rate of Reaction.md",
+                "file": "Education/Chemistry/CHEM191/M2/The rate of Reaction.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Chemistry/CHEM191/The Rate Law.md",
+                "file": "Education/Chemistry/CHEM191/VSEPR.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Reaction Mechanisms.md",
+                "file": "Education/Chemistry/CHEM191/M2/Reaction Mechanisms.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Electron Transfer Reaction.md",
+                "file": "Education/Chemistry/CHEM191/M2/Electron Transfer Reaction.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,14 +86,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Galvanic Cells.md",
+                "file": "Education/Chemistry/CHEM191/Valence Bond Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d61e6ce847526bb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Chemistry/CHEM191/VSEPR.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "91139a39376b689e",
@@ -174,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Galvanic Cells.md",
+                "file": "Education/Chemistry/CHEM191/VSEPR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Galvanic Cells.md",
+                "file": "Education/Chemistry/CHEM191/VSEPR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Galvanic Cells.md"
+                "file": "Education/Chemistry/CHEM191/VSEPR.md"
               }
             }
           },
@@ -246,43 +258,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "acd43d5c44a6731a",
+  "active": "e809ad4166f652c6",
   "lastOpenFiles": [
-    "Education/Chemistry/CHEM191/Potential Difference.md",
-    "Education/Chemistry/CHEM191/Galvanic Cells.md",
-    "Education/Chemistry/CHEM191/Module 2 - Energetics, Rates and Driving Forces of Chemical Reactions.md",
-    "Education/Chemistry/CHEM191/Electron Transfer Reaction.md",
+    "Education/Chemistry/CHEM191/Valence Bond Theory.md",
+    "Education/Chemistry/CHEM191/Valence electrons.md",
+    "Education/Chemistry/CHEM191/VSEPR.md",
+    "Screen Shot 2023-05-14 at 12.25.00 AM.png",
+    "Screen Shot 2023-05-14 at 12.24.55 AM.png",
+    "Screen Shot 2023-05-14 at 12.24.51 AM.png",
+    "Screen Shot 2023-05-14 at 12.11.44 AM.png",
+    "Screen Shot 2023-05-14 at 12.11.37 AM.png",
+    "Screen Shot 2023-05-14 at 12.11.31 AM 1.png",
+    "Education/Chemistry/CHEM191/M2/The Rate Law.md",
+    "Screen Shot 2023-05-14 at 12.11.31 AM.png",
+    "Education/Chemistry/CHEM191/Hybridisation.md",
+    "Education/Chemistry/CHEM191/covalent bond.md",
+    "Education/Chemistry/CHEM191/Sigma-bonds.md",
+    "Education/Chemistry/CHEM191/Orbitals.md",
+    "Education/Chemistry/CHEM191/pi-bonds.md",
+    "Education/Chemistry/CHEM191/Module 3 - Structure and Reactions of Organic Molecules.md",
+    "Education/Chemistry/CHEM191/Lewis Structures.md",
+    "Education/Chemistry/CHEM191/The Octet rule.md",
+    "Education/Chemistry/CHEM191/Atoms and Bonding.md",
+    "Pasted image 20230513233831.png",
+    "Education/Chemistry/CHEM191/d orbitals.md",
+    "Education/Chemistry/CHEM191/s orbitals.md",
+    "Education/Chemistry/CHEM191/p orbitals.md",
+    "Pasted image 20230513232947.png",
+    "Pasted image 20230513232911.png",
+    "Education/Chemistry/CHEM191/M1/Molecules in Biological Environments.md",
+    "Education/Chemistry/CHEM191/M3",
+    "Education/Chemistry/CHEM191/M1/Buffer Solutions.md",
     "Education/Chemistry/CHEM191/Module 1 - Chemical Reactions in an Aquaeous Solution.md",
-    "Education/Chemistry/CHEM191/Oxidation numbers.md",
-    "Education/Chemistry/CHEM191/Redox equations.md",
-    "Education/Chemistry/CHEM191/Reducing Agent.md",
-    "Education/Chemistry/CHEM191/Oxidising Agent.md",
-    "Education/Chemistry/CHEM191/Reduction.md",
-    "Education/Chemistry/CHEM191/Oxidation.md",
-    "Education/Chemistry/CHEM191/Arrhenius equation.md",
-    "Pasted image 20230513191713.png",
-    "Education/Chemistry/CHEM191/Standard Enthalpy of Formation.md",
-    "Education/Chemistry/CHEM191/Collision rate.md",
-    "Education/Chemistry/CHEM191/Reaction Mechanisms.md",
-    "Education/Chemistry/CHEM191/1st order reactions.md",
-    "Education/Chemistry/CHEM191/The Rate Law.md",
-    "Education/Chemistry/CHEM191/Integrated Rate Law for 1st order reactions.md",
-    "Education/Chemistry/CHEM191/The rate of Reaction.md",
-    "Education/Chemistry/CHEM191/[.md",
-    "Education/Chemistry/CHEM191/Gibbs Energy.md",
-    "Education/Chemistry/CHEM191/Gibbs free energy change.md",
-    "Education/Chemistry/CHEM191/Reaction spontaneity.md",
-    "Education/Chemistry/CHEM191/Energy.md",
-    "Education/Chemistry/CHEM191/Entropy.md",
-    "Education/Chemistry/CHEM191/Enthalpy.md",
+    "Education/Chemistry/CHEM191/Module 2 - Energetics, Rates and Driving Forces of Chemical Reactions.md",
+    "Education/Chemistry/CHEM191/M2/Enthalpy.md",
+    "Education/Chemistry/CHEM191/M2/Transition metal complexes.md",
+    "Education/Chemistry/CHEM191/M2/Biological ligands.md",
+    "Education/Chemistry/CHEM191/M2/Oxidising Agent.md",
+    "Education/Chemistry/CHEM191/M2/Electron Transfer Reaction.md",
     "Education/Chemistry/CHEM191/M2",
     "Education/Chemistry/CHEM191/M1",
-    "images/Pasted image 20230512144137.png",
     "images",
-    "images/Pasted image 20230512152207.png",
-    "images/Pasted image 20230512152031.png",
-    "images/Pasted image 20230512151517.png",
-    "images/Pasted image 20230512145718.png",
     "Notes",
     "Education/Chemistry/CHEM191",
     "Education",

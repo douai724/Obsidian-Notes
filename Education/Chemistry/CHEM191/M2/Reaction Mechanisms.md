@@ -1,7 +1,7 @@
 ### Elementary Steps
 Every chemical reaction occurs in a series of **elementary steps**: each elementary step describes a collision between molecules. Elementary steps are normally unimolecular or bimolecular.
 
-[[The rate of reaction]] depends on the nature of these elementary steps, not on the overall chemical equation.
+[[The rate of Reaction]] depends on the nature of these elementary steps, not on the overall chemical equation.
 
 Elementary steps may involve the formation of **reaction intermediates**, species which play a role in the conversion of reactants to products but do not appear in the overall chemical equation.
 

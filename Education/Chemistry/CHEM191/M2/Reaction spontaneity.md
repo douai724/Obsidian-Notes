@@ -14,6 +14,6 @@ In chemistry, **spontaneity** refers to the *tendency of a chemical reaction to 
 ### Energetics of dissolution
 When an ionic solid dissolves, *the strong ionic bonds between the cations and anions are broken, and the ions are surrounded by water molecules that stabilize them by hydrogen bonding.* 
 
-This process is **endothermic** due to the *weaker hydrogen bonding compared to the ionic bonds*. However, the increase in [[entropy]] due to the increased freedom of movement of the ions in solution results in a *highly positive value for ΔS*, making the overall process **spontaneous** with a *negative value for ΔG.*
+This process is **endothermic** due to the *weaker hydrogen bonding compared to the ionic bonds*. However, the increase in [[Entropy]] due to the increased freedom of movement of the ions in solution results in a *highly positive value for ΔS*, making the overall process **spontaneous** with a *negative value for ΔG.*
 
 

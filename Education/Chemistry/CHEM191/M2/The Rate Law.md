@@ -4,7 +4,7 @@
 
 The values of the **orders** (**x and y**) can only be determined *experimentally*. Cannot be found via the stoichiometry of the reaction.
 - If *x + y = 0*, ***Zero* order reaction**, *rate* = $k$, unit of k is $mol\space L^{-1}\space s^{-1}$
-- If *x + y = 1*, [[1st order reactions]], *rate* = $k[A]$, unit of k is $s^{-1}$
+- If *x + y = 1*, [[1st order reaction]], *rate* = $k[A]$, unit of k is $s^{-1}$
 - If *x + y = 2*, ***Second* order reaction**, *rate* = $k[A][B]$ or *rate* = $k[A]^2$, unit of k is $mol\space L^{-1}\space s^{-1}$
 
 ### Pseudo first order reactions

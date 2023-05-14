@@ -1,5 +1,5 @@
 
-If an element undergoes an ***increase*** in [[oxidation]] number, it is being **oxidised**.
+If an element undergoes an ***increase*** in [[Oxidation]] number, it is being **oxidised**.
 
 If an element undergoes a ***decrease*** in oxidation number, it is being **reduced**.
 
