@@ -1,0 +1,1 @@
+*Structural features that give a characteristic reactivity is called a functional group.*
