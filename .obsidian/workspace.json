@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b54f86adb86b797",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Chemistry/CHEM191/Chirality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efd1f432ec1b3132",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Chemistry/CHEM191/Stereochemistry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a321d89eb60cc6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Chemistry/CHEM191/Singly Bonded Functional Groups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Isomers.md",
+                "file": "Education/Chemistry/CHEM191/Singly Bonded Functional Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Isomers.md",
+                "file": "Education/Chemistry/CHEM191/Singly Bonded Functional Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Isomers.md"
+                "file": "Education/Chemistry/CHEM191/Singly Bonded Functional Groups.md"
               }
             }
           },
@@ -170,45 +206,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f3c6b9cc7b7e019a",
+  "active": "1a321d89eb60cc6a",
   "lastOpenFiles": [
-    "Education/Chemistry/CHEM191/Stereoisomers.md",
-    "Education/Chemistry/CHEM191/Diastereomers.md",
-    "Education/Chemistry/CHEM191/Enantiomers.md",
+    "Screen Shot 2023-05-16 at 10.03.34 AM.png",
+    "Screen Shot 2023-05-16 at 10.02.56 AM.png",
+    "Screen Shot 2023-05-16 at 10.02.35 AM.png",
+    "Screen Shot 2023-05-16 at 10.01.33 AM.png",
+    "Screen Shot 2023-05-16 at 10.00.29 AM.png",
+    "Education/Chemistry/CHEM191/Organic Reaction Mechanisms.md",
+    "Education/Chemistry/CHEM191/Singly Bonded Functional Groups.md",
+    "Education/Chemistry/CHEM191/Sigma-bond.md",
+    "Education/Chemistry/CHEM191/Hybridisation.md",
+    "Education/Chemistry/CHEM191/Valence Bond Theory.md",
+    "Education/Chemistry/CHEM191/VSEPR.md",
+    "Education/Chemistry/CHEM191/Valence electrons.md",
+    "Education/Chemistry/CHEM191/The Octet rule.md",
+    "Education/Chemistry/CHEM191/d orbitals.md",
+    "Education/Chemistry/CHEM191/Heterolytic bond cleavage.md",
+    "Screen Shot 2023-05-16 at 9.55.30 AM.png",
+    "Education/Chemistry/CHEM191/Homolytic bond cleavage.md",
+    "Screen Shot 2023-05-16 at 9.55.25 AM.png",
+    "Education/Chemistry/CHEM191/Stereochemistry.md",
+    "Education/Chemistry/CHEM191/Chirality.md",
+    "Screen Shot 2023-05-16 at 9.39.14 AM.png",
     "Education/Chemistry/CHEM191/Isomers.md",
     "Education/Chemistry/CHEM191/Constitutional Isomers.md",
+    "Education/Chemistry/CHEM191/Stereoisomers.md",
+    "Screen Shot 2023-05-15 at 9.51.37 PM.png",
+    "Education/Chemistry/CHEM191/Diastereomers.md",
+    "Education/Chemistry/CHEM191/Enantiomers.md",
     "Education/Chemistry/CHEM191/Organic Molecules.md",
     "Education/Chemistry/CHEM191/Functional Groups.md",
     "Education/Chemistry/CHEM191/the carbon cycle.md",
     "images/Pasted image 20230513191713.png",
     "images/Screen Shot 2023-05-15 at 12.07.07 AM.png",
-    "images/Screen Shot 2023-05-15 at 12.09.13 AM.png",
-    "images/Screen Shot 2023-05-15 at 12.09.07 AM.png",
-    "images/Screen Shot 2023-05-15 at 12.08.17 AM.png",
-    "images/Screen Shot 2023-05-15 at 12.08.12 AM.png",
-    "images/Screen Shot 2023-05-15 at 12.07.00 AM.png",
-    "images/Screen Shot 2023-05-15 at 12.05.47 AM.png",
-    "images/Screen Shot 2023-05-15 at 12.05.38 AM.png",
-    "images/Screen Shot 2023-05-15 at 12.04.29 AM.png",
     "Education/Chemistry/CHEM191/Orbitals.md",
     "Education/Chemistry/CHEM191/covalent bond.md",
     "Education/Chemistry/CHEM191/pi-bonds.md",
-    "Education/Chemistry/CHEM191/Hybridisation.md",
-    "Education/Chemistry/CHEM191/Valence Bond Theory.md",
-    "Education/Chemistry/CHEM191/VSEPR.md",
-    "Education/Chemistry/CHEM191/Valence electrons.md",
     "Education/Chemistry/CHEM191/M2/The Rate Law.md",
-    "Education/Chemistry/CHEM191/Sigma-bonds.md",
-    "Education/Chemistry/CHEM191/Module 3 - Structure and Reactions of Organic Molecules.md",
-    "Education/Chemistry/CHEM191/Lewis Structures.md",
-    "Education/Chemistry/CHEM191/The Octet rule.md",
-    "Education/Chemistry/CHEM191/Atoms and Bonding.md",
-    "Education/Chemistry/CHEM191/d orbitals.md",
-    "Education/Chemistry/CHEM191/s orbitals.md",
-    "Education/Chemistry/CHEM191/p orbitals.md",
-    "Education/Chemistry/CHEM191/M1/Molecules in Biological Environments.md",
     "Education/Chemistry/CHEM191/M3",
-    "Education/Chemistry/CHEM191/M1/Buffer Solutions.md",
     "Education/Chemistry/CHEM191/M2",
     "Education/Chemistry/CHEM191/M1",
     "images",

@@ -7,7 +7,7 @@ Hybridisation is the concept in chemistry that describes the mixing of atomic or
 
 ***In a triple bonded molecule,*** such as **ethyne (C2H2)**, the carbon atoms are sp hybridised. This means that **each carbon atom** has *two hybrid orbitals that are involved in bonding with the other carbon atom and one hydrogen atom.* The remaining **two unhybridised p-orbitals** on each carbon atom form **two pi-bonds** that ***overlap*** with the **[[pi-bonds]]** of the other carbon atom to create the **triple bond**.
 
-***Single bonds*** contain one **sigma bond** (*longer bond*)
+***Single bonds*** contain one [[Sigma-bond]] (*longer bond*)
 
 ***Double bonds*** contain one **sigma bond** and one **pi bond**
 
