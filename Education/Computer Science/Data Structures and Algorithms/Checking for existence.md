@@ -1,0 +1,1 @@
+One of the most common applications of a [[hash table]] or [[sets]] is determining if an element exists in $O(1)$. Since an array needs $O(n)$ to do this, using a hash map or set can improve the time complexity of an algorithm greatly, usually from $O(n^2)$ to $O(n)$.

@@ -1,0 +1,1 @@
+Dictionaries are **Python's implementation of a data structure that is more generally known as an associative array** or [[hash map]]. A dictionary consists of a collection of key-value pairs. Each key-value pair maps the key to its associated value.

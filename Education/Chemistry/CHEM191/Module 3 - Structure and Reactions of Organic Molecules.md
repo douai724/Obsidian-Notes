@@ -6,6 +6,5 @@
 - [[Isomers]]
 - [[Stereochemistry]]
 - [[Chirality]]
-- [[Absolute Configuration of Asymmetric Carbon]]
-- [[Diatereoisomers]]
+- [[Organic Reaction Mechanisms]]
 - [[Enantiomers]]

@@ -4,71 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "e3e75a1100b7db1f",
+        "id": "a3ccef5afae58ead",
         "type": "tabs",
         "children": [
           {
-            "id": "519301671d00974f",
+            "id": "d3c2d71996e769a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Organic Molecules.md",
+                "file": "Education/Computer Science/Data Structures and Algorithms/Counting.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f3c6b9cc7b7e019a",
+            "id": "a1ea374a92445ab7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Isomers.md",
+                "file": "Education/Computer Science/Data Structures and Algorithms/pointer.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9b54f86adb86b797",
+            "id": "eb4396de3f6ed266",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Chirality.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efd1f432ec1b3132",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Education/Chemistry/CHEM191/Stereochemistry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a321d89eb60cc6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Education/Chemistry/CHEM191/Singly Bonded Functional Groups.md",
+                "file": "Education/Computer Science/Data Structures and Algorithms/Fast and slow pointers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "subsequence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Singly Bonded Functional Groups.md",
+                "file": "Education/Computer Science/Data Structures and Algorithms/Fast and slow pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Singly Bonded Functional Groups.md",
+                "file": "Education/Computer Science/Data Structures and Algorithms/Fast and slow pointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Singly Bonded Functional Groups.md"
+                "file": "Education/Computer Science/Data Structures and Algorithms/Fast and slow pointers.md"
               }
             }
           },
@@ -206,44 +182,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a321d89eb60cc6a",
+  "active": "eb4396de3f6ed266",
   "lastOpenFiles": [
-    "Screen Shot 2023-05-16 at 10.03.34 AM.png",
-    "Screen Shot 2023-05-16 at 10.02.56 AM.png",
-    "Screen Shot 2023-05-16 at 10.02.35 AM.png",
-    "Screen Shot 2023-05-16 at 10.01.33 AM.png",
-    "Screen Shot 2023-05-16 at 10.00.29 AM.png",
-    "Education/Chemistry/CHEM191/Organic Reaction Mechanisms.md",
-    "Education/Chemistry/CHEM191/Singly Bonded Functional Groups.md",
-    "Education/Chemistry/CHEM191/Sigma-bond.md",
-    "Education/Chemistry/CHEM191/Hybridisation.md",
-    "Education/Chemistry/CHEM191/Valence Bond Theory.md",
-    "Education/Chemistry/CHEM191/VSEPR.md",
-    "Education/Chemistry/CHEM191/Valence electrons.md",
-    "Education/Chemistry/CHEM191/The Octet rule.md",
-    "Education/Chemistry/CHEM191/d orbitals.md",
-    "Education/Chemistry/CHEM191/Heterolytic bond cleavage.md",
-    "Screen Shot 2023-05-16 at 9.55.30 AM.png",
-    "Education/Chemistry/CHEM191/Homolytic bond cleavage.md",
-    "Screen Shot 2023-05-16 at 9.55.25 AM.png",
-    "Education/Chemistry/CHEM191/Stereochemistry.md",
-    "Education/Chemistry/CHEM191/Chirality.md",
-    "Screen Shot 2023-05-16 at 9.39.14 AM.png",
-    "Education/Chemistry/CHEM191/Isomers.md",
-    "Education/Chemistry/CHEM191/Constitutional Isomers.md",
-    "Education/Chemistry/CHEM191/Stereoisomers.md",
-    "Screen Shot 2023-05-15 at 9.51.37 PM.png",
-    "Education/Chemistry/CHEM191/Diastereomers.md",
-    "Education/Chemistry/CHEM191/Enantiomers.md",
-    "Education/Chemistry/CHEM191/Organic Molecules.md",
-    "Education/Chemistry/CHEM191/Functional Groups.md",
-    "Education/Chemistry/CHEM191/the carbon cycle.md",
+    "Education/Computer Science/Data Structures and Algorithms/Linked Lists.md",
+    "Education/Computer Science/Data Structures and Algorithms/Fast and slow pointers.md",
+    "Education/Computer Science/Data Structures and Algorithms/Untitled.md",
+    "Education/Computer Science/Data Structures and Algorithms/pointer.md",
+    "Education/Computer Science/Data Structures and Algorithms/Node.md",
+    "Education/Computer Science/Data Structures and Algorithms/Hashing.md",
+    "Education/Computer Science/Data Structures and Algorithms/hash table.md",
+    "Notes/Everything.md",
+    "Education/Computer Science/Data Structures and Algorithms/Counting.md",
+    "Untitled.md",
+    "1.md",
+    "Education/Chemistry/CHEM191/M3/Organic Reaction Mechanisms.md",
+    "Education/Chemistry/CHEM191/M3/Atoms and Bonding.md",
+    "Education/Chemistry/CHEM191/Module 3 - Structure and Reactions of Organic Molecules.md",
+    "Education/Computer Science/Data Structures and Algorithms/Data Structures and Algorithms.md",
+    "Education/Computer Science/Data Structures and Algorithms/Checking for existence.md",
+    "Education/Computer Science/Data Structures and Algorithms/Sets.md",
+    "Education/Computer Science/Data Structures and Algorithms/chaining.md",
+    "Education/Computer Science/Data Structures and Algorithms/hash map.md",
+    "Education/Computer Science/Data Structures and Algorithms/dictionary.md",
+    "Education/Computer Science/Data Structures and Algorithms/Subsets.md",
+    "Education/Computer Science/Data Structures and Algorithms/Sliding Window.md",
+    "Education/Computer Science/Data Structures and Algorithms/Subsequences.md",
+    "Education/Computer Science/Data Structures and Algorithms/strings.md",
+    "Education/Computer Science/Data Structures and Algorithms/amortised analysis.md",
+    "Education/Computer Science/Data Structures and Algorithms/Prefix sum.md",
+    "Education/Computer Science/Data Structures and Algorithms",
+    "Education/Computer Science",
+    "images/Screen Shot 2023-05-15 at 9.51.37 PM.png",
+    "images/Screen Shot 2023-05-16 at 10.03.34 AM.png",
+    "images/Screen Shot 2023-05-16 at 10.02.56 AM.png",
+    "images/Screen Shot 2023-05-16 at 10.02.35 AM.png",
+    "images/Screen Shot 2023-05-16 at 10.01.33 AM.png",
+    "images/Screen Shot 2023-05-16 at 10.00.29 AM.png",
+    "images/Screen Shot 2023-05-16 at 9.55.30 AM.png",
+    "images/Screen Shot 2023-05-16 at 9.55.25 AM.png",
+    "images/Screen Shot 2023-05-16 at 9.39.14 AM.png",
     "images/Pasted image 20230513191713.png",
-    "images/Screen Shot 2023-05-15 at 12.07.07 AM.png",
-    "Education/Chemistry/CHEM191/Orbitals.md",
-    "Education/Chemistry/CHEM191/covalent bond.md",
-    "Education/Chemistry/CHEM191/pi-bonds.md",
-    "Education/Chemistry/CHEM191/M2/The Rate Law.md",
     "Education/Chemistry/CHEM191/M3",
     "Education/Chemistry/CHEM191/M2",
     "Education/Chemistry/CHEM191/M1",
@@ -251,7 +229,6 @@
     "Notes",
     "Education/Chemistry/CHEM191",
     "Education",
-    "Daily Notes",
-    "Education/Chemistry"
+    "Daily Notes"
   ]
 }

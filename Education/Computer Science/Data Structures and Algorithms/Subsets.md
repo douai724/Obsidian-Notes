@@ -1,0 +1,5 @@
+> A subset is any group of elements from the original [[Arrays]] or strings. The order doesn't matter and neither do the elements being beside each other. For example, given `[1, 2, 3, 4]`, all of these are subsets: `[3, 2]`, `[4, 1, 2]`, `[1]`. Note: subsets that contain the same elements are considered the same, so `[1, 2, 4]` is the same subset as `[4, 1, 2]`.
+
+You may be thinking, what is the difference between [[Subsequences]] and subsets if subsets with the same elements are considered the same? In terms of algorithm problems, this generally means that we can sort the input at the start, which will open the door to methods like two-pointers, greedy algorithms, or even a creative sliding window.
+
+One thing to note is that if a problem involves [[Subsequences]], but the order of the subsequence doesn't actually matter (let's say it wants the sum of subsequences), then you can treat it the same as a subset, and once again sorting is a powerful tool.
