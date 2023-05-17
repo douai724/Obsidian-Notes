@@ -13,3 +13,4 @@ When the pointers move at different speeds, usually the "fast" pointer moves two
 	    fast = fast.next.next
 
 >The reason we need the while condition to also check for `fast.next` is because if `fast` is at the final node, then `fast.next` is null, and `fast.next.next` will result in an error.
+
