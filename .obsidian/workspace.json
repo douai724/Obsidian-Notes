@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Computer Science/Data Structures and Algorithms/Fast and slow pointers.md",
+                "file": "Daily Notes/May 17, 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Computer Science/Data Structures and Algorithms/Fast and slow pointers.md",
+                "file": "Daily Notes/May 17, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Computer Science/Data Structures and Algorithms/Fast and slow pointers.md",
+                "file": "Daily Notes/May 17, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Computer Science/Data Structures and Algorithms/Fast and slow pointers.md"
+                "file": "Daily Notes/May 17, 2023.md"
               }
             }
           },
@@ -184,14 +184,15 @@
   },
   "active": "eb4396de3f6ed266",
   "lastOpenFiles": [
-    "Education/Computer Science/Data Structures and Algorithms/Arrays and Strings.md",
+    "Education/Untitled.md",
+    "Daily Notes/May 17, 2023.md",
     "Education/Computer Science/Data Structures and Algorithms/Fast and slow pointers.md",
+    "Education/Computer Science/Data Structures and Algorithms/Arrays and Strings.md",
     "Education/Computer Science/Data Structures and Algorithms/Linked Lists.md",
     "Education/Computer Science/Data Structures and Algorithms/Counting.md",
     "Education/Computer Science/Data Structures and Algorithms/Node.md",
     "Education/Computer Science/Data Structures and Algorithms/Two Pointers.md",
     "Education/Computer Science/Data Structures and Algorithms/pointer.md",
-    "Education/Computer Science/Data Structures and Algorithms/Untitled.md",
     "Education/Computer Science/Data Structures and Algorithms/Hashing.md",
     "Education/Computer Science/Data Structures and Algorithms/hash table.md",
     "Notes/Everything.md",
@@ -209,7 +210,6 @@
     "Education/Computer Science/Data Structures and Algorithms/Subsets.md",
     "Education/Computer Science/Data Structures and Algorithms/Sliding Window.md",
     "Education/Computer Science/Data Structures and Algorithms/Subsequences.md",
-    "Education/Computer Science/Data Structures and Algorithms/strings.md",
     "Education/Computer Science/Data Structures and Algorithms",
     "Education/Computer Science",
     "images/Screen Shot 2023-05-15 at 9.51.37 PM.png",
