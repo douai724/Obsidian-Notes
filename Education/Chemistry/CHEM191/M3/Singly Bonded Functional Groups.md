@@ -14,7 +14,7 @@ Possible Reaction Sequences for nucleophilic substitution:
 
 ![[Screen Shot 2023-05-16 at 10.03.34 AM.png]]
 
-Transition state: 
+**Transition state:** 
 - Effective collision has taken place 
 - Corresponds to maximum free energy 
 - Nu and the X both loosely bound to C (---- partial bond) 

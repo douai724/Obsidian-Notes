@@ -1,0 +1,1 @@
+A nitrogen attached to three R groups and one lone pair

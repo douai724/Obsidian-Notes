@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/May 17, 2023.md",
+                "file": "Education/Chemistry/CHEM191/M3/Singly Bonded Functional Groups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83870b651ec7c87e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Chemistry/CHEM191/M3/Functional Groups.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/May 17, 2023.md",
+                "file": "Education/Chemistry/CHEM191/M3/Functional Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/May 17, 2023.md",
+                "file": "Education/Chemistry/CHEM191/M3/Functional Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/May 17, 2023.md"
+                "file": "Education/Chemistry/CHEM191/M3/Functional Groups.md"
               }
             }
           },
@@ -182,10 +194,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb4396de3f6ed266",
+  "active": "83870b651ec7c87e",
   "lastOpenFiles": [
-    "Education/Untitled.md",
+    "Education/Chemistry/CHEM191/M3/Alkyl Halide.md",
+    "Education/Chemistry/CHEM191/M3/Functional Groups.md",
+    "Education/Chemistry/CHEM191/M3/Alcohol.md",
+    "Education/Chemistry/CHEM191/M3/Amine.md",
+    "Education/Chemistry/CHEM191/M3/Carboxylic acid.md",
+    "Education/Chemistry/CHEM191/M3/Aldehyde.md",
+    "Education/Chemistry/CHEM191/M3/Ketone.md",
+    "Education/Chemistry/CHEM191/M3/Alkyne.md",
+    "Education/Chemistry/CHEM191/M3/Alkene.md",
+    "Education/Chemistry/CHEM191/M3/Heteroatoms.md",
+    "Education/Chemistry/CHEM191/M3/Singly Bonded Functional Groups.md",
+    "Education/Chemistry/CHEM191/M3/Heterolytic bond cleavage.md",
+    "Education/Chemistry/CHEM191/M3/Homolytic bond cleavage.md",
     "Daily Notes/May 17, 2023.md",
+    "Education/Untitled.md",
     "Education/Computer Science/Data Structures and Algorithms/Fast and slow pointers.md",
     "Education/Computer Science/Data Structures and Algorithms/Arrays and Strings.md",
     "Education/Computer Science/Data Structures and Algorithms/Linked Lists.md",
@@ -197,19 +222,6 @@
     "Education/Computer Science/Data Structures and Algorithms/hash table.md",
     "Notes/Everything.md",
     "Untitled.md",
-    "1.md",
-    "Education/Chemistry/CHEM191/M3/Organic Reaction Mechanisms.md",
-    "Education/Chemistry/CHEM191/M3/Atoms and Bonding.md",
-    "Education/Chemistry/CHEM191/Module 3 - Structure and Reactions of Organic Molecules.md",
-    "Education/Computer Science/Data Structures and Algorithms/Data Structures and Algorithms.md",
-    "Education/Computer Science/Data Structures and Algorithms/Checking for existence.md",
-    "Education/Computer Science/Data Structures and Algorithms/Sets.md",
-    "Education/Computer Science/Data Structures and Algorithms/chaining.md",
-    "Education/Computer Science/Data Structures and Algorithms/hash map.md",
-    "Education/Computer Science/Data Structures and Algorithms/dictionary.md",
-    "Education/Computer Science/Data Structures and Algorithms/Subsets.md",
-    "Education/Computer Science/Data Structures and Algorithms/Sliding Window.md",
-    "Education/Computer Science/Data Structures and Algorithms/Subsequences.md",
     "Education/Computer Science/Data Structures and Algorithms",
     "Education/Computer Science",
     "images/Screen Shot 2023-05-15 at 9.51.37 PM.png",

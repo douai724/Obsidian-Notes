@@ -1,0 +1,2 @@
+- Any atom that is not carbon or hydrogen 
+- can make up [[functional groups]]
