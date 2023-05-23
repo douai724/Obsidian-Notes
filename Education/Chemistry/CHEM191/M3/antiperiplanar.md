@@ -1,0 +1,1 @@
+- Same plane but on opposite sides of the alpha and beta carbons.

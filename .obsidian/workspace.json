@@ -4,59 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "a3ccef5afae58ead",
+        "id": "6e437e854dd902fc",
         "type": "tabs",
         "children": [
           {
-            "id": "d3c2d71996e769a7",
+            "id": "7f3dbce9388354c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Computer Science/Data Structures and Algorithms/Counting.md",
+                "file": "Education/Chemistry/CHEM191/M3/Alpha-hydrogen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a1ea374a92445ab7",
+            "id": "d915c8e9826c4a17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Computer Science/Data Structures and Algorithms/pointer.md",
+                "file": "Education/Chemistry/CHEM191/M3/Beta-carbons.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eb4396de3f6ed266",
+            "id": "7648fc4d235c910c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1bc5d4d4e77d7cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M3/Singly Bonded Functional Groups.md",
+                "file": "Education/Chemistry/CHEM191/Module 3 - Structure and Reactions of Organic Molecules.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "83870b651ec7c87e",
+            "id": "878e39b5ef74708a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M3/Functional Groups.md",
+                "file": "Education/Chemistry/CHEM191/Module 4 - Structures and Reactions of Biological Molecules.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "subsequence",
+                "query": "leaving group",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M3/Functional Groups.md",
+                "file": "Education/Chemistry/CHEM191/Module 4 - Structures and Reactions of Biological Molecules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M3/Functional Groups.md",
+                "file": "Education/Chemistry/CHEM191/Module 4 - Structures and Reactions of Biological Molecules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M3/Functional Groups.md"
+                "file": "Education/Chemistry/CHEM191/Module 4 - Structures and Reactions of Biological Molecules.md"
               }
             }
           },
@@ -174,12 +182,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -194,53 +201,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "83870b651ec7c87e",
+  "active": "878e39b5ef74708a",
   "lastOpenFiles": [
-    "Education/Chemistry/CHEM191/M3/Alkyl Halide.md",
-    "Education/Chemistry/CHEM191/M3/Functional Groups.md",
+    "Education/Chemistry/CHEM191/Module 1 - Chemical Reactions in an Aquaeous Solution.md",
+    "Education/Chemistry/CHEM191/Module 2 - Energetics, Rates and Driving Forces of Chemical Reactions.md",
+    "Education/Chemistry/CHEM191/Module 3 - Structure and Reactions of Organic Molecules.md",
+    "Education/Chemistry/CHEM191/Module 4 - Structures and Reactions of Biological Molecules.md",
+    "images/Screen Shot 2023-05-23 at 5.13.18 PM.png",
+    "Education/Chemistry/CHEM191/M4/Biological Molecules.md",
+    "Education/Chemistry/CHEM191/M4",
+    "images/Screen Shot 2023-05-23 at 5.13.14 PM.png",
+    "images/Screen Shot 2023-05-23 at 5.12.28 PM.png",
+    "images/Screen Shot 2023-05-23 at 5.09.02 PM.png",
+    "images/Screen Shot 2023-05-23 at 5.08.46 PM.png",
+    "images/Screen Shot 2023-05-23 at 5.08.58 PM.png",
+    "images/Screen Shot 2023-05-23 at 5.08.54 PM 1.png",
+    "images/Screen Shot 2023-05-23 at 5.08.54 PM.png",
+    "images/Screen Shot 2023-05-23 at 5.08.37 PM.png",
+    "images/Screen Shot 2023-05-23 at 5.08.29 PM.png",
+    "Education/Chemistry/CHEM191/M4/Ethers and Esters.md",
+    "Education/Chemistry/CHEM191/M4/Alcohols.md",
     "Education/Chemistry/CHEM191/M3/Alcohol.md",
-    "Education/Chemistry/CHEM191/M3/Amine.md",
-    "Education/Chemistry/CHEM191/M3/Carboxylic acid.md",
-    "Education/Chemistry/CHEM191/M3/Aldehyde.md",
-    "Education/Chemistry/CHEM191/M3/Ketone.md",
-    "Education/Chemistry/CHEM191/M3/Alkyne.md",
-    "Education/Chemistry/CHEM191/M3/Alkene.md",
-    "Education/Chemistry/CHEM191/M3/Heteroatoms.md",
-    "Education/Chemistry/CHEM191/M3/Singly Bonded Functional Groups.md",
-    "Education/Chemistry/CHEM191/M3/Heterolytic bond cleavage.md",
-    "Education/Chemistry/CHEM191/M3/Homolytic bond cleavage.md",
-    "Daily Notes/May 17, 2023.md",
-    "Education/Untitled.md",
-    "Education/Computer Science/Data Structures and Algorithms/Fast and slow pointers.md",
-    "Education/Computer Science/Data Structures and Algorithms/Arrays and Strings.md",
-    "Education/Computer Science/Data Structures and Algorithms/Linked Lists.md",
-    "Education/Computer Science/Data Structures and Algorithms/Counting.md",
-    "Education/Computer Science/Data Structures and Algorithms/Node.md",
-    "Education/Computer Science/Data Structures and Algorithms/Two Pointers.md",
-    "Education/Computer Science/Data Structures and Algorithms/pointer.md",
-    "Education/Computer Science/Data Structures and Algorithms/Hashing.md",
-    "Education/Computer Science/Data Structures and Algorithms/hash table.md",
-    "Notes/Everything.md",
-    "Untitled.md",
+    "Education/Chemistry/CHEM191/M3/Functional Groups.md",
+    "Education/Chemistry/CHEM191/M1/Proteins.md",
+    "Education/Chemistry/CHEM191/M3/antiperiplanar.md",
+    "1.md",
+    "Education/Chemistry/CHEM191/M3/Addition reactions.md",
+    "Education/Chemistry/CHEM191/M3/Elimination Reactions.md",
+    "Education/Chemistry/CHEM191/M3/Beta-hydrogen.md",
+    "Education/Chemistry/CHEM191/M3/Beta-carbons.md",
+    "Education/Chemistry/CHEM191/M3/Alpha-hydrogen.md",
+    "Education/Chemistry/CHEM191/M3/Alpha-Carbons.md",
+    "Education/Chemistry/CHEM191/M3/Leaving Group.md",
+    "Education/Chemistry/CHEM191/M3/Nucleophilic substitution.md",
+    "Education/Chemistry/CHEM191/M3/hydrogen bonds.md",
+    "Education/Chemistry/CHEM191/M3/nucleophile.md",
+    "Education/Chemistry/CHEM191/M3/Sn2 reactions.md",
+    "Education/Chemistry/CHEM191/M3/Organic Molecules.md",
+    "Education/Chemistry/CHEM191/M3/Isomers.md",
+    "Education/Chemistry/CHEM191/M3/the carbon cycle.md",
+    "IMG_2813.heic",
     "Education/Computer Science/Data Structures and Algorithms",
     "Education/Computer Science",
-    "images/Screen Shot 2023-05-15 at 9.51.37 PM.png",
-    "images/Screen Shot 2023-05-16 at 10.03.34 AM.png",
-    "images/Screen Shot 2023-05-16 at 10.02.56 AM.png",
-    "images/Screen Shot 2023-05-16 at 10.02.35 AM.png",
-    "images/Screen Shot 2023-05-16 at 10.01.33 AM.png",
-    "images/Screen Shot 2023-05-16 at 10.00.29 AM.png",
-    "images/Screen Shot 2023-05-16 at 9.55.30 AM.png",
-    "images/Screen Shot 2023-05-16 at 9.55.25 AM.png",
-    "images/Screen Shot 2023-05-16 at 9.39.14 AM.png",
-    "images/Pasted image 20230513191713.png",
     "Education/Chemistry/CHEM191/M3",
     "Education/Chemistry/CHEM191/M2",
     "Education/Chemistry/CHEM191/M1",
     "images",
     "Notes",
-    "Education/Chemistry/CHEM191",
-    "Education",
-    "Daily Notes"
+    "Education/Chemistry/CHEM191"
   ]
 }

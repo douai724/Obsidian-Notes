@@ -8,3 +8,6 @@
 - [[Chirality]]
 - [[Organic Reaction Mechanisms]]
 - [[Enantiomers]]
+- [[Addition reactions]]
+- [[Nucleophilic substitution]]
+- [[Elimination Reactions]]
