@@ -1,0 +1,1 @@
+The R2C=O group is planar. The C=O bond is polarized. O is more electronegative than C.

@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M3/Beta-carbons.md",
+                "file": "Education/Chemistry/CHEM191/M4/Addition to Aldehydes and Ketones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aaa46a0c7dd676e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Chemistry/CHEM191/M4/Chemistry of Carbohydrates.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,31 +52,31 @@
             }
           },
           {
-            "id": "b1bc5d4d4e77d7cd",
+            "id": "878e39b5ef74708a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Module 3 - Structure and Reactions of Organic Molecules.md",
+                "file": "Education/Chemistry/CHEM191/M4/Ethers and Esters.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "878e39b5ef74708a",
+            "id": "16ddaed23e62ec4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Module 4 - Structures and Reactions of Biological Molecules.md",
+                "file": "Education/Chemistry/CHEM191/M4/Carbonyl Compounds.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Module 4 - Structures and Reactions of Biological Molecules.md",
+                "file": "Education/Chemistry/CHEM191/M4/Chemistry of Carbohydrates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Module 4 - Structures and Reactions of Biological Molecules.md",
+                "file": "Education/Chemistry/CHEM191/M4/Chemistry of Carbohydrates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Chemistry/CHEM191/Module 4 - Structures and Reactions of Biological Molecules.md"
+                "file": "Education/Chemistry/CHEM191/M4/Chemistry of Carbohydrates.md"
               }
             }
           },
@@ -201,45 +213,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "878e39b5ef74708a",
+  "active": "aaa46a0c7dd676e3",
   "lastOpenFiles": [
+    "Education/Chemistry/CHEM191/M4/Carbohydrates.md",
+    "Education/Chemistry/CHEM191/M4/Chemistry of Carbohydrates.md",
+    "Education/Chemistry/CHEM191/M4/Addition to Aldehydes and Ketones.md",
+    "Screen Shot 2023-05-25 at 1.50.14 PM.png",
+    "Screen Shot 2023-05-25 at 1.49.07 PM.png",
+    "Screen Shot 2023-05-25 at 1.49.01 PM.png",
+    "Screen Shot 2023-05-23 at 5.37.02 PM.png",
+    "Screen Shot 2023-05-23 at 5.36.31 PM.png",
+    "Education/Chemistry/CHEM191/M3/Aldehyde.md",
+    "Education/Chemistry/CHEM191/M3/Ketone.md",
+    "Education/Chemistry/CHEM191/M3/nucleophile.md",
+    "Screen Shot 2023-05-23 at 5.28.27 PM.png",
+    "Screen Shot 2023-05-23 at 5.26.34 PM.png",
+    "Education/Chemistry/CHEM191/M4/Carbonyl Compounds.md",
+    "Education/Chemistry/CHEM191/Module 4 - Structures and Reactions of Biological Molecules.md",
+    "Education/Chemistry/CHEM191/M4/Ethers and Esters.md",
+    "Education/Chemistry/CHEM191/M3/Organic Molecules.md",
+    "Education/Chemistry/CHEM191/M3/the carbon cycle.md",
+    "Education/Chemistry/CHEM191/M3/Singly Bonded Functional Groups.md",
+    "Education/Chemistry/CHEM191/M3/Alkyne.md",
+    "Education/Chemistry/CHEM191/M3/Alcohol.md",
+    "Education/Chemistry/CHEM191/M3/Amine.md",
+    "Education/Chemistry/CHEM191/M3/Sn1 reactions.md",
+    "Education/Chemistry/CHEM191/M3/electrophile.md",
+    "Education/Chemistry/CHEM191/M3/Leaving Group.md",
+    "Education/Chemistry/CHEM191/M3/Beta-carbons.md",
     "Education/Chemistry/CHEM191/Module 1 - Chemical Reactions in an Aquaeous Solution.md",
     "Education/Chemistry/CHEM191/Module 2 - Energetics, Rates and Driving Forces of Chemical Reactions.md",
     "Education/Chemistry/CHEM191/Module 3 - Structure and Reactions of Organic Molecules.md",
-    "Education/Chemistry/CHEM191/Module 4 - Structures and Reactions of Biological Molecules.md",
     "images/Screen Shot 2023-05-23 at 5.13.18 PM.png",
     "Education/Chemistry/CHEM191/M4/Biological Molecules.md",
     "Education/Chemistry/CHEM191/M4",
     "images/Screen Shot 2023-05-23 at 5.13.14 PM.png",
     "images/Screen Shot 2023-05-23 at 5.12.28 PM.png",
-    "images/Screen Shot 2023-05-23 at 5.09.02 PM.png",
-    "images/Screen Shot 2023-05-23 at 5.08.46 PM.png",
-    "images/Screen Shot 2023-05-23 at 5.08.58 PM.png",
-    "images/Screen Shot 2023-05-23 at 5.08.54 PM 1.png",
-    "images/Screen Shot 2023-05-23 at 5.08.54 PM.png",
-    "images/Screen Shot 2023-05-23 at 5.08.37 PM.png",
-    "images/Screen Shot 2023-05-23 at 5.08.29 PM.png",
-    "Education/Chemistry/CHEM191/M4/Ethers and Esters.md",
     "Education/Chemistry/CHEM191/M4/Alcohols.md",
-    "Education/Chemistry/CHEM191/M3/Alcohol.md",
     "Education/Chemistry/CHEM191/M3/Functional Groups.md",
     "Education/Chemistry/CHEM191/M1/Proteins.md",
-    "Education/Chemistry/CHEM191/M3/antiperiplanar.md",
-    "1.md",
-    "Education/Chemistry/CHEM191/M3/Addition reactions.md",
-    "Education/Chemistry/CHEM191/M3/Elimination Reactions.md",
-    "Education/Chemistry/CHEM191/M3/Beta-hydrogen.md",
-    "Education/Chemistry/CHEM191/M3/Beta-carbons.md",
-    "Education/Chemistry/CHEM191/M3/Alpha-hydrogen.md",
-    "Education/Chemistry/CHEM191/M3/Alpha-Carbons.md",
-    "Education/Chemistry/CHEM191/M3/Leaving Group.md",
-    "Education/Chemistry/CHEM191/M3/Nucleophilic substitution.md",
-    "Education/Chemistry/CHEM191/M3/hydrogen bonds.md",
-    "Education/Chemistry/CHEM191/M3/nucleophile.md",
-    "Education/Chemistry/CHEM191/M3/Sn2 reactions.md",
-    "Education/Chemistry/CHEM191/M3/Organic Molecules.md",
-    "Education/Chemistry/CHEM191/M3/Isomers.md",
-    "Education/Chemistry/CHEM191/M3/the carbon cycle.md",
     "IMG_2813.heic",
     "Education/Computer Science/Data Structures and Algorithms",
     "Education/Computer Science",
