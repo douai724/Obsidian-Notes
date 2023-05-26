@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M4/Chemistry of Carbohydrates.md",
-                "mode": "source",
+                "file": "Education/Chemistry/CHEM191/M1/Solubility.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M4/Chemistry of Carbohydrates.md",
+                "file": "Education/Chemistry/CHEM191/M1/Solubility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M4/Chemistry of Carbohydrates.md",
+                "file": "Education/Chemistry/CHEM191/M1/Solubility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M4/Chemistry of Carbohydrates.md"
+                "file": "Education/Chemistry/CHEM191/M1/Solubility.md"
               }
             }
           },
@@ -215,8 +215,23 @@
   },
   "active": "aaa46a0c7dd676e3",
   "lastOpenFiles": [
-    "Education/Chemistry/CHEM191/M4/Carbohydrates.md",
+    "Education/Chemistry/CHEM191/M1/Acid-base Chemistry.md",
+    "Education/Chemistry/CHEM191/M3/Isomers.md",
+    "Education/Chemistry/CHEM191/M3/Enantiomers.md",
+    "Education/Chemistry/CHEM191/M3/Constitutional Isomers.md",
+    "Education/Chemistry/CHEM191/M3/Functional Groups.md",
+    "Education/Chemistry/CHEM191/M3/VSEPR.md",
+    "Education/Chemistry/CHEM191/M3/Sn1 reactions.md",
+    "Education/Chemistry/CHEM191/M3/Sn2 reactions.md",
+    "Education/Chemistry/CHEM191/M3/Nucleophilic substitution.md",
+    "Education/Chemistry/CHEM191/M3/hydrogen bonds.md",
     "Education/Chemistry/CHEM191/M4/Chemistry of Carbohydrates.md",
+    "Screen Shot 2023-05-25 at 2.34.33 PM.png",
+    "Screen Shot 2023-05-25 at 2.33.30 PM.png",
+    "Screen Shot 2023-05-25 at 2.10.27 PM.png",
+    "Screen Shot 2023-05-25 at 2.09.37 PM.png",
+    "Screen Shot 2023-05-25 at 2.08.47 PM.png",
+    "Education/Chemistry/CHEM191/M4/Carbohydrates.md",
     "Education/Chemistry/CHEM191/M4/Addition to Aldehydes and Ketones.md",
     "Screen Shot 2023-05-25 at 1.50.14 PM.png",
     "Screen Shot 2023-05-25 at 1.49.07 PM.png",
@@ -226,8 +241,6 @@
     "Education/Chemistry/CHEM191/M3/Aldehyde.md",
     "Education/Chemistry/CHEM191/M3/Ketone.md",
     "Education/Chemistry/CHEM191/M3/nucleophile.md",
-    "Screen Shot 2023-05-23 at 5.28.27 PM.png",
-    "Screen Shot 2023-05-23 at 5.26.34 PM.png",
     "Education/Chemistry/CHEM191/M4/Carbonyl Compounds.md",
     "Education/Chemistry/CHEM191/Module 4 - Structures and Reactions of Biological Molecules.md",
     "Education/Chemistry/CHEM191/M4/Ethers and Esters.md",
@@ -237,21 +250,8 @@
     "Education/Chemistry/CHEM191/M3/Alkyne.md",
     "Education/Chemistry/CHEM191/M3/Alcohol.md",
     "Education/Chemistry/CHEM191/M3/Amine.md",
-    "Education/Chemistry/CHEM191/M3/Sn1 reactions.md",
     "Education/Chemistry/CHEM191/M3/electrophile.md",
-    "Education/Chemistry/CHEM191/M3/Leaving Group.md",
-    "Education/Chemistry/CHEM191/M3/Beta-carbons.md",
-    "Education/Chemistry/CHEM191/Module 1 - Chemical Reactions in an Aquaeous Solution.md",
-    "Education/Chemistry/CHEM191/Module 2 - Energetics, Rates and Driving Forces of Chemical Reactions.md",
-    "Education/Chemistry/CHEM191/Module 3 - Structure and Reactions of Organic Molecules.md",
-    "images/Screen Shot 2023-05-23 at 5.13.18 PM.png",
-    "Education/Chemistry/CHEM191/M4/Biological Molecules.md",
     "Education/Chemistry/CHEM191/M4",
-    "images/Screen Shot 2023-05-23 at 5.13.14 PM.png",
-    "images/Screen Shot 2023-05-23 at 5.12.28 PM.png",
-    "Education/Chemistry/CHEM191/M4/Alcohols.md",
-    "Education/Chemistry/CHEM191/M3/Functional Groups.md",
-    "Education/Chemistry/CHEM191/M1/Proteins.md",
     "IMG_2813.heic",
     "Education/Computer Science/Data Structures and Algorithms",
     "Education/Computer Science",
