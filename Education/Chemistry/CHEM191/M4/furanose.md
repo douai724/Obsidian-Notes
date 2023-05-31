@@ -1,0 +1,3 @@
+- 4x **Carbon** and 1x **Oxygen**
+- 5 membered ring
+- (Less stable than a 6 membered ring)

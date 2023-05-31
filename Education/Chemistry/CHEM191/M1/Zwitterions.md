@@ -4,4 +4,4 @@ Zwitterions behave like ionic salts. They are involatile solids, have high melti
 
 ---
 
-Neutral [[Amino Acids]] exist primarily as Zwitterions. ![[Pasted image 20230512152031.png | 350]]
+Neutral [[Education/Chemistry/CHEM191/M1/Amino Acids]] exist primarily as Zwitterions. ![[Pasted image 20230512152031.png | 350]]

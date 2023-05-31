@@ -25,58 +25,48 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M4/Addition to Aldehydes and Ketones.md",
+                "file": "Education/Chemistry/CHEM191/M4/Cellulose (a polysaccharide).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aaa46a0c7dd676e3",
+            "id": "e9bd3b3de51bd4d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M1/Solubility.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7648fc4d235c910c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "878e39b5ef74708a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Education/Chemistry/CHEM191/M4/Ethers and Esters.md",
+                "file": "Education/Chemistry/CHEM191/M4/Carboxylic Acid Derivatives.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "16ddaed23e62ec4c",
+            "id": "8dd6543d4dbd2adb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M4/Carbonyl Compounds.md",
+                "file": "Education/Chemistry/CHEM191/M4/Electrophoresis.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "7823960eb4935571",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Screen Shot 2023-05-23 at 5.26.34 PM.png"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -105,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "leaving group",
+                "query": "amino acids",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M1/Solubility.md",
+                "file": "images/Screen Shot 2023-05-23 at 5.26.34 PM.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M1/Solubility.md",
+                "file": "images/Screen Shot 2023-05-23 at 5.26.34 PM.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M1/Solubility.md"
+                "file": "images/Screen Shot 2023-05-23 at 5.26.34 PM.png"
               }
             }
           },
@@ -213,44 +203,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aaa46a0c7dd676e3",
+  "active": "e522be512c89237e",
   "lastOpenFiles": [
-    "Education/Chemistry/CHEM191/M1/Acid-base Chemistry.md",
-    "Education/Chemistry/CHEM191/M3/Isomers.md",
-    "Education/Chemistry/CHEM191/M3/Enantiomers.md",
-    "Education/Chemistry/CHEM191/M3/Constitutional Isomers.md",
-    "Education/Chemistry/CHEM191/M3/Functional Groups.md",
-    "Education/Chemistry/CHEM191/M3/VSEPR.md",
-    "Education/Chemistry/CHEM191/M3/Sn1 reactions.md",
-    "Education/Chemistry/CHEM191/M3/Sn2 reactions.md",
+    "Education/Chemistry/CHEM191/M4/Peptides.md",
+    "images/Screen Shot 2023-05-31 at 9.47.09 PM.png",
+    "images/Screen Shot 2023-05-31 at 9.35.51 PM.png",
     "Education/Chemistry/CHEM191/M3/Nucleophilic substitution.md",
-    "Education/Chemistry/CHEM191/M3/hydrogen bonds.md",
+    "Education/Chemistry/CHEM191/M3/Carboxylic acid.md",
+    "Education/Chemistry/CHEM191/M4/Electrophoresis.md",
+    "Education/Chemistry/CHEM191/M4/Cellulose (a polysaccharide).md",
+    "Education/Chemistry/CHEM191/M4/Carboxylic Acid Derivatives.md",
+    "Education/Chemistry/CHEM191/M1/Amino Acids.md",
+    "Education/Chemistry/CHEM191/M4/Amino Acids.md",
+    "images/Screen Shot 2023-05-31 at 9.22.05 PM.png",
+    "images/Screen Shot 2023-05-31 at 9.12.15 PM.png",
+    "images/Screen Shot 2023-05-31 at 9.09.22 PM.png",
+    "images/Screen Shot 2023-05-31 at 9.09.19 PM.png",
+    "images/Screen Shot 2023-05-31 at 9.07.35 PM.png",
+    "images/Screen Shot 2023-05-31 at 9.05.14 PM.png",
+    "images/Screen Shot 2023-05-31 at 9.04.16 PM.png",
+    "Education/Chemistry/CHEM191/M4/Reactions of Monosaccharides.md",
     "Education/Chemistry/CHEM191/M4/Chemistry of Carbohydrates.md",
-    "Screen Shot 2023-05-25 at 2.34.33 PM.png",
-    "Screen Shot 2023-05-25 at 2.33.30 PM.png",
-    "Screen Shot 2023-05-25 at 2.10.27 PM.png",
-    "Screen Shot 2023-05-25 at 2.09.37 PM.png",
-    "Screen Shot 2023-05-25 at 2.08.47 PM.png",
-    "Education/Chemistry/CHEM191/M4/Carbohydrates.md",
-    "Education/Chemistry/CHEM191/M4/Addition to Aldehydes and Ketones.md",
-    "Screen Shot 2023-05-25 at 1.50.14 PM.png",
-    "Screen Shot 2023-05-25 at 1.49.07 PM.png",
-    "Screen Shot 2023-05-25 at 1.49.01 PM.png",
-    "Screen Shot 2023-05-23 at 5.37.02 PM.png",
-    "Screen Shot 2023-05-23 at 5.36.31 PM.png",
-    "Education/Chemistry/CHEM191/M3/Aldehyde.md",
-    "Education/Chemistry/CHEM191/M3/Ketone.md",
-    "Education/Chemistry/CHEM191/M3/nucleophile.md",
-    "Education/Chemistry/CHEM191/M4/Carbonyl Compounds.md",
+    "images/Screen Shot 2023-05-31 at 8.56.27 PM.png",
+    "Education/Chemistry/CHEM191/M4/Higher Saccharides.md",
+    "Education/Chemistry/CHEM191/M4/Amylose (a polysaccharide).md",
+    "Education/Chemistry/CHEM191/M4/Polysaccharide.md",
+    "Education/Chemistry/CHEM191/M4/Sucrose.md",
+    "Education/Chemistry/CHEM191/M4/furanose.md",
+    "Education/Chemistry/CHEM191/M4/pyranose.md",
+    "Education/Chemistry/CHEM191/M4/MUTAROTATION.md",
+    "Education/Chemistry/CHEM191/M4/b-D-glucopyranose.md",
+    "Education/Chemistry/CHEM191/M4/Cellobiose.md",
+    "Education/Chemistry/CHEM191/M4/Maltose.md",
+    "Education/Chemistry/CHEM191/M4/glycoside hydrolysis.md",
     "Education/Chemistry/CHEM191/Module 4 - Structures and Reactions of Biological Molecules.md",
-    "Education/Chemistry/CHEM191/M4/Ethers and Esters.md",
-    "Education/Chemistry/CHEM191/M3/Organic Molecules.md",
-    "Education/Chemistry/CHEM191/M3/the carbon cycle.md",
-    "Education/Chemistry/CHEM191/M3/Singly Bonded Functional Groups.md",
-    "Education/Chemistry/CHEM191/M3/Alkyne.md",
-    "Education/Chemistry/CHEM191/M3/Alcohol.md",
-    "Education/Chemistry/CHEM191/M3/Amine.md",
-    "Education/Chemistry/CHEM191/M3/electrophile.md",
+    "Education/Chemistry/CHEM191/M4/Addition to Aldehydes and Ketones.md",
+    "Education/Chemistry/CHEM191/M1/Solubility.md",
+    "Education/Chemistry/CHEM191/M4/Glucose.md",
     "Education/Chemistry/CHEM191/M4",
     "IMG_2813.heic",
     "Education/Computer Science/Data Structures and Algorithms",

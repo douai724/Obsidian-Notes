@@ -1,0 +1,1 @@
+They are **long chains of carbohydrate molecules, composed of several smaller monosaccharides**

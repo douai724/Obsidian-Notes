@@ -2,4 +2,6 @@
 - [[Biological Molecules]]
 - [[Ethers and Esters]]
 - [[Addition to Aldehydes and Ketones]]
-- 
+- [[Reactions of Monosaccharides]]
+- [[Chemistry of Carbohydrates]]
+- [[Higher Saccharides]]

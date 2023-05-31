@@ -1,0 +1,3 @@
+- 5x **C** and 1x **O**
+- six member ring
+- (More stable than 5 membered rings)
