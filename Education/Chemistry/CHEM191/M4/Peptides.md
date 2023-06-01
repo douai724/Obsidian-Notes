@@ -48,3 +48,11 @@ Thus, a proline residue disrupts these secondary structural elements.
 ### Disulfide bridges
 
 Disulfide linkages can also strongly influence the conformation and shape of peptides
+
+## Peptide hydrolysis
+
+Peptide Hydrolysis (*breaking a peptide bond*) is difficult as it is an unreactive acid derivative and water is a poor nucleophile. Can imagine the reaction occurring in acid or in base (although both are still quite slow)
+
+![[Screen Shot 2023-05-31 at 11.11.05 PM.png]]
+
+Free amino acids are required for many biological processes so a variety of enzymes called **[[proteases]]** are synthesised to enable the efficient hydrolysis of peptide bonds.
