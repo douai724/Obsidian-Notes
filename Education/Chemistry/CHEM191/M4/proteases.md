@@ -16,14 +16,14 @@ Chymotrypsin is a proteolytic enzyme (*a serine protease*) found in the digestiv
 
 Following the mechanistic arrows get us to the tetrahedral intermediate 
 ![[Screen Shot 2023-06-01 at 1.00.38 PM.png]]
-This then leads to breaking of the C-N bond liberating the Cterminal amino acid and exposes the next amino acid.
+This then leads to breaking of the C-N bond liberating the C-terminal amino acid and exposes the next amino acid.
 
 ### Why is the OH group of tyrosine in the able to act as a proton donor?
 Usually the proton of an alcohol group is not acidic. However the OH group of tyrosine is attached to a benzene ring and this influences its acidity and reactivity.
 
 ![[Screen Shot 2023-06-01 at 1.02.40 PM.png]]
 
-The reason that OH of phenol is more acidic than that of an aliphatic alcohol is due to the relative stability of its conjugate base, due to resonance stabilisation. (Brown et al, Section 28.4 p1124)- spreading out of the charge similar to acetate.
+The reason that OH of phenol is more acidic than that of an aliphatic alcohol is due to the relative stability of its conjugate base, due to resonance stabilisation. (Brown et al., Section 28.4 p1124)- spreading out of the charge similar to acetate.
 
 ![[Screen Shot 2023-06-01 at 1.03.27 PM.png]]
 

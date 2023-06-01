@@ -5,3 +5,6 @@
 - [[Reactions of Monosaccharides]]
 - [[Chemistry of Carbohydrates]]
 - [[Higher Saccharides]]
+- [[Carboxylic Acid Derivatives]]
+- [[Peptides]]
+- [[Aromatic compounds]]
