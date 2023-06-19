@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M4/Cellulose (a polysaccharide).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9bd3b3de51bd4d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Education/Chemistry/CHEM191/M4/Carboxylic Acid Derivatives.md",
+                "file": "Education/Computer Science/Data Structures and Algorithms/Hashing.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,6 +56,14 @@
             }
           },
           {
+            "id": "ac9f3213694100d0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "b99cee258089d966",
             "type": "leaf",
             "state": {
@@ -76,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "amino acids",
+                "query": "orbitals",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M4/proteases.md",
+                "file": "Education/Computer Science/Data Structures and Algorithms/Hashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M4/proteases.md",
+                "file": "Education/Computer Science/Data Structures and Algorithms/Hashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Chemistry/CHEM191/M4/proteases.md"
+                "file": "Education/Computer Science/Data Structures and Algorithms/Hashing.md"
               }
             }
           },
@@ -213,25 +209,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7823960eb4935571",
+  "active": "e522be512c89237e",
   "lastOpenFiles": [
-    "Education/Chemistry/CHEM191/M4/Electrophoresis.md",
-    "Education/Chemistry/CHEM191/M4/Carboxylic Acid Derivatives.md",
+    "Education/Computer Science/Data Structures and Algorithms/hash table.md",
+    "Education/Computer Science/Data Structures and Algorithms/Sets.md",
+    "Education/Computer Science/Data Structures and Algorithms/Fast and slow pointers.md",
+    "Education/Computer Science/Data Structures and Algorithms/chaining.md",
     "Education/Chemistry/CHEM191/M4/Cellulose (a polysaccharide).md",
-    "Education/Chemistry/CHEM191/M3/Alpha-hydrogen.md",
-    "Education/Chemistry/CHEM191/Module 4 - Structures and Reactions of Biological Molecules.md",
+    "Untitled.canvas",
+    "Education/Chemistry/CHEM191/M3/Atoms and Bonding.md",
     "Education/Chemistry/CHEM191/M4/Peptides.md",
-    "Education/Chemistry/CHEM191/M4/Polysaccharide.md",
-    "Education/Chemistry/CHEM191/M4/glycoside hydrolysis.md",
+    "Education/Chemistry/CHEM191/M4/Carboxylic Acid Derivatives.md",
+    "Education/Chemistry/CHEM191/M3/Addition reactions.md",
+    "Education/Chemistry/CHEM191/M3/antiperiplanar.md",
+    "Education/Chemistry/CHEM191/M3/Beta-hydrogen.md",
     "Education/Chemistry/CHEM191/Module 1 - Chemical Reactions in an Aquaeous Solution.md",
     "Education/Chemistry/CHEM191/Module 2 - Energetics, Rates and Driving Forces of Chemical Reactions.md",
     "Education/Chemistry/CHEM191/Module 3 - Structure and Reactions of Organic Molecules.md",
+    "Education/Chemistry/CHEM191/Module 4 - Structures and Reactions of Biological Molecules.md",
+    "Education/Chemistry/CHEM191/M4/Aromatic compounds.md",
+    "Education/Chemistry/CHEM191/M4/Electrophoresis.md",
+    "Education/Chemistry/CHEM191/M3/Alpha-hydrogen.md",
+    "Education/Chemistry/CHEM191/M4/Polysaccharide.md",
+    "Education/Chemistry/CHEM191/M4/glycoside hydrolysis.md",
     "Education/Computer Science/Data Structures and Algorithms/hash map.md",
-    "Education/Computer Science/Data Structures and Algorithms/hash table.md",
     "Education/Computer Science/Data Structures and Algorithms/Checking for existence.md",
     "Notes/Everything.md",
     "images/Screen Shot 2023-05-31 at 11.11.05 PM.png",
-    "Education/Chemistry/CHEM191/M4/Aromatic compounds.md",
     "images/Screen Shot 2023-06-01 at 1.14.15 PM.png",
     "images/Screen Shot 2023-06-01 at 1.13.28 PM.png",
     "images/Screen Shot 2023-06-01 at 1.12.08 PM.png",
@@ -244,13 +248,6 @@
     "Education/Chemistry/CHEM191/M4/proteases.md",
     "Education/Chemistry/CHEM191/M3/Nucleophilic substitution.md",
     "Education/Chemistry/CHEM191/M3/Carboxylic acid.md",
-    "Education/Chemistry/CHEM191/M1/Amino Acids.md",
-    "Education/Chemistry/CHEM191/M4/Amino Acids.md",
-    "Education/Chemistry/CHEM191/M4/Reactions of Monosaccharides.md",
-    "Education/Chemistry/CHEM191/M4/Chemistry of Carbohydrates.md",
-    "Education/Chemistry/CHEM191/M4/Higher Saccharides.md",
-    "Education/Chemistry/CHEM191/M4/Amylose (a polysaccharide).md",
-    "Education/Chemistry/CHEM191/M4/Sucrose.md",
     "Education/Chemistry/CHEM191/M4",
     "IMG_2813.heic",
     "Education/Computer Science/Data Structures and Algorithms",
